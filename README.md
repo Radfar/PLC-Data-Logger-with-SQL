@@ -60,3 +60,12 @@ Sample dataset included (`/data/plc_logs.csv`):
 git clone https://github.com/username/plc-data-logger-sql.git
 cd plc-data-logger-sql/scripts
 python logger.py
+
+
+Author
+
+👤 Alireza
+Automation & Electronics Engineer | PLC, SCADA, Robotics, IIoT
+📧 Contact: [alza.radfar@gmail.com
+]
+🔗 LinkedIn: https://www.linkedin.com/in/arradfar/)
