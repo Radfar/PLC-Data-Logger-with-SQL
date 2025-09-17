@@ -66,6 +66,5 @@ Author
 
 👤 Alireza
 Automation & Electronics Engineer | PLC, SCADA, Robotics, IIoT
-📧 Contact: [alza.radfar@gmail.com
-]
-🔗 LinkedIn: https://www.linkedin.com/in/arradfar/)
+📧 Contact:  alza.radfar@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/arradfar/
